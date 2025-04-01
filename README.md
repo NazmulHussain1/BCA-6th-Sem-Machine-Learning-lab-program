@@ -27,6 +27,7 @@
 
 
 #7TH PROGRAM OUTPUT: #
+![Image](https://github.com/user-attachments/assets/85adb80c-2e57-430f-8fa5-4c6ec86e3d5e)
 
 
 #8TH PROGRAM OUTPUT: #
