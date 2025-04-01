@@ -31,6 +31,7 @@
 
 
 #8TH PROGRAM OUTPUT: #
+![Image](https://github.com/user-attachments/assets/83534080-adbb-4a5d-b55a-2ff86b8fa564)
 
 
 #9TH PROGRAM OUTPUT: #
