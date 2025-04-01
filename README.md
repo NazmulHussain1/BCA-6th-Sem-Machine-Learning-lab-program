@@ -23,20 +23,25 @@
 
 
 #6TH PROGRAM OUTPUT: #
-![Image](https://github.com/user-attachments/assets/37b10561-3d9d-4a39-935e-7e8050848158)
+
 
 
 #7TH PROGRAM OUTPUT: #
-![Image](https://github.com/user-attachments/assets/85adb80c-2e57-430f-8fa5-4c6ec86e3d5e)
+![Image](https://github.com/user-attachments/assets/37b10561-3d9d-4a39-935e-7e8050848158)
+
 
 
 #8TH PROGRAM OUTPUT: #
-![Image](https://github.com/user-attachments/assets/83534080-adbb-4a5d-b55a-2ff86b8fa564)
+![Image](https://github.com/user-attachments/assets/85adb80c-2e57-430f-8fa5-4c6ec86e3d5e)
+
 
 
 #9TH PROGRAM OUTPUT: #
+![Image](https://github.com/user-attachments/assets/83534080-adbb-4a5d-b55a-2ff86b8fa564)
+
 
 
 #10TH PROGRAM OUTPUT: #
+![Image](https://github.com/user-attachments/assets/87b80faf-1778-4abe-8361-07424f6b587c)
 
 
