@@ -8,30 +8,30 @@ I AM A STUDENT OF GOVERNMENT FIRST GRADE COLLEGE DOMLUR,BENGALORE <br> THAT IS A
 
 # NUMBER OF PROGRAMS : 10
 
-#REFERENCE BOOK IS :# SKYWORD PUBLISHER TEXTBOOK 
+# REFERENCE BOOK IS : SKYWORD PUBLISHER TEXTBOOK 
 
-#OUTPUT OF ALL OF PROGRAMS ARE:#
+# OUTPUT OF ALL OF PROGRAMS ARE:
 
-#4TH PROGRAM OUTPUT: #
+# 4TH PROGRAM OUTPUT: 
 ![Image](https://github.com/user-attachments/assets/09927f36-b704-4f8f-a1b4-751e6e607b23)
 
 
 
 
-#5TH PROGRAM OUTPUT: #
+# 5TH PROGRAM OUTPUT: 
 ![Image](https://github.com/user-attachments/assets/1e04a845-b53e-43ba-a001-c11c5273eee0)
 
 
-#6TH PROGRAM OUTPUT: #
+# 6TH PROGRAM OUTPUT: 
 
 
 
-#7TH PROGRAM OUTPUT: #
+# 7TH PROGRAM OUTPUT: 
 ![Image](https://github.com/user-attachments/assets/37b10561-3d9d-4a39-935e-7e8050848158)
 
 
 
-#8TH PROGRAM OUTPUT: #
+# 8TH PROGRAM OUTPUT: 
 ![Image](https://github.com/user-attachments/assets/85adb80c-2e57-430f-8fa5-4c6ec86e3d5e)
 
 
