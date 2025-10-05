@@ -36,12 +36,12 @@ I AM A STUDENT OF GOVERNMENT FIRST GRADE COLLEGE DOMLUR,BENGALORE <br> THAT IS A
 
 
 
-#9TH PROGRAM OUTPUT: #
+# 9TH PROGRAM OUTPUT: 
 ![Image](https://github.com/user-attachments/assets/83534080-adbb-4a5d-b55a-2ff86b8fa564)
 
 
 
-#10TH PROGRAM OUTPUT: #
+# 10TH PROGRAM OUTPUT: 
 ![Image](https://github.com/user-attachments/assets/87b80faf-1778-4abe-8361-07424f6b587c)
 
 
